@@ -3,7 +3,9 @@ module.exports = {
   darkMode: 'class',
   theme: {
     extend: {
-      
+      maxHeight: {
+        '128': '50rem',
+      }
     },
   },
   plugins: [],
